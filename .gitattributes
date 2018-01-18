@@ -1,1 +1,1 @@
-secrets/* filter=strongbox diff=strongbox
+secrets/* filter=strongbox1 diff=strongbox1
